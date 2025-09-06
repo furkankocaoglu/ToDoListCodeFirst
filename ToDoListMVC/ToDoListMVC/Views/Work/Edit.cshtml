@@ -12,17 +12,13 @@
         <div class="card-body">
             @using (Html.BeginForm())
             {
-                if (TempData["Mesaj"] != null)
-                {
-                    <div class="alert alert-success">
-                        @TempData["Mesaj"]
-                    </div>
-                }
                 <div class="mb-3">
                     <div class="mb-2">
                         <strong>Yeni Görev İsmi</strong>
                     </div>
-                    @Html.EditorFor(x => x.Title, new {htmlAttributes = new { @class = "form-control", @id = "Name" }} )
+                    @Html.EditorFor(x => x.Title, new { htmlAttributes = new { @class = "form-control", @id = "Name" } })
+                    @Html.ValidationMessageFor(x => x.Title, "", new { @class = "text-danger" })
+
                 </div>
                 <button type="submit">Değiştir</button>
             }

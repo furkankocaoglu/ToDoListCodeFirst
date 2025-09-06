@@ -105,7 +105,7 @@ namespace ToDoListMVC.Controllers
                     TempData["Mesaj"] = "İşlem Geri Alındı";
                 }
             }
-            return RedirectToAction("Index", "Completed");
+            return RedirectToAction("Completed", "Work");
         }
         public ActionResult Done(int? id)
         {

@@ -6,6 +6,12 @@
 }
 
 <div class="container mt-5">
+    @if (TempData["Mesaj"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Mesaj"]
+        </div>
+    }
     <div class="card">
         <div class="card-header">
             <div class="float-start">
