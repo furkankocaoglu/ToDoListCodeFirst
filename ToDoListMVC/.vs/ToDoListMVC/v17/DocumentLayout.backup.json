@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\views\\work\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\views\\work\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\views\\work\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\views\\work\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\models\\todolistdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\models\\todolistdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|c:\\users\\kocao\\source\\repos\\todolistmvc\\todolistmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2776B964-53D0-4FB5-9AA4-4278CA808BB2}|ToDoListMVC\\ToDoListMVC.csproj|solutionrelative:todolistmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Completed.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Completed.cshtml",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Views\\Work\\Completed.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Completed.cshtml",
+              "RelativeToolTip": "ToDoListMVC\\Views\\Work\\Completed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T18:05:54.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Views\\Work\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Edit.cshtml",
+              "RelativeToolTip": "ToDoListMVC\\Views\\Work\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T17:50:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "ToDoListMVC\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T17:19:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "ToDoListMVC\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T17:18:07.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "ToDoListMVC\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:58:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Models\\Work.cs",
+              "RelativeToolTip": "ToDoListMVC\\Models\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:56:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ToDoListMVC\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:55:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoListDB.cs",
+              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Models\\ToDoListDB.cs",
+              "RelativeDocumentMoniker": "ToDoListMVC\\Models\\ToDoListDB.cs",
+              "ToolTip": "C:\\Users\\kocao\\source\\repos\\ToDoListMVC\\ToDoListMVC\\Models\\ToDoListDB.cs",
+              "RelativeToolTip": "ToDoListMVC\\Models\\ToDoListDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:55:09.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

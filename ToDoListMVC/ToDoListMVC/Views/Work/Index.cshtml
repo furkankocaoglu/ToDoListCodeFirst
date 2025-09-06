@@ -1,0 +1,58 @@
+﻿@model List<ToDoListMVC.Models.Work>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="container mt-5">
+    @if (TempData["Mesaj"]!=null)
+    {
+    <div class="alert alert-success">
+        @TempData["Mesaj"]
+    </div>
+    }
+    <div class="card">
+        <div class="card-header">
+            <div class="float-start">
+                Görev Listem
+            </div>
+            <div class="float-end">
+                <a href="@Url.Action("Create","Work")" style="text-decoration:none">Görev Ekle</a>
+                <a href="@Url.Action("Completed","Work")" style="text-decoration:none">Tamamlananlara Git</a>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-success">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Başlık</th>
+                            <th>Oluşturma Tarihi</th>
+                            <th>İşlem</th>
+                            <th>Tamamlandı Mı?</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var work in Model)
+                        {
+                            <tr>
+                                <td>@work.Id</td>
+                                <td>@work.Title</td>
+                                <td>@work.Created</td>
+                                <td>
+                                    <a href="@Url.Action("Edit","Work",new {id=work.Id})" style="text-decoration:none">İsmi Değiştir</a>&nbsp;
+                                    <a href="@Url.Action("Delete","Work",new {id=work.Id})" style="text-decoration:none">Sil</a>
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("Done","Work",new {id=work.Id})" style="text-decoration:none">Tamamla</a>&nbsp;
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

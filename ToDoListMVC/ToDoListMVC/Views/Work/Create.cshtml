@@ -1,0 +1,32 @@
+﻿@model ToDoListMVC.Models.Work
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="float-start">
+                Görev Ekle
+            </div>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm())
+            {
+                <div class="mb-3">
+                    <div class="mb-2">
+                        <strong>İş Adı</strong>
+                    </div>
+                    @Html.EditorFor(x => x.Title, new { htmlAttributes = new { @class = "form-control", @id = "Name" } })
+                    @Html.ValidationMessageFor(x=>x.Title,"",new {@class="text-danger"})
+                </div>
+                <button type="submit">
+                    Oluştur
+                </button>
+            }
+        </div>
+    </div>
+</div>
+
